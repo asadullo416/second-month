@@ -1,0 +1,614 @@
+header {
+    width: 100%;
+    height: 70px;
+
+}
+
+
+.button1 {
+    background-color: white;
+    width: 120px;
+    height: 30px;
+    border: #000000 solid 1px;
+    border-radius: 10px;
+    position: relative;
+    left: 300px;
+    top: -40px;
+}
+
+
+
+.logo2 {
+    margin-left: -70px;
+    margin-top: 3px;
+}
+
+.text1 {
+    margin-left: 140px;
+    margin-top: -33px;
+    font-size: 22px;
+    line-height: 32px;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.logo1 {
+    margin-top: 18px;
+    margin-left: 100px;
+}
+
+.button1-text1 {
+    margin-top: -20px;
+    font-size: 14px;
+    margin-left: 30px;
+}
+
+.navbar-words {
+    width: 370px;
+    margin-left: 760px;
+    margin-top: -70px;
+}
+
+.word-1 {
+    color: #000000;
+    opacity: 0.3;
+}
+
+.icon-1{
+    font-size: 24px;
+    margin-left: 1180px;
+    margin-top: -40px;
+}
+
+.icon-2{
+    font-size: 24px;
+    margin-left: 1230px;
+    margin-top: -37px;
+}
+
+
+.icon-3{
+    font-size: 24px;
+    margin-left: 1280px;
+    margin-top: -35px;
+}
+
+.container-section1{
+    width: 100%;
+    margin-top: 80px;
+    height: 456px;
+    background-color: #FEF5E2;
+}
+
+.logo3{
+    margin-left: 500px;
+}
+
+
+.section1-word1{
+    margin-top: -250px;
+    margin-left: 50px;
+    font-size: 43px;
+}
+
+.section1-word2{
+    margin-top: -10px;
+    margin-left: 50px;
+    font-size: 43px;
+}
+
+.section1-word3{
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.section1-word4{
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: -10px;
+}
+
+.section1-word4{
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: -10px;
+}
+
+.section1-word5{
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: -10px;
+}
+
+.button2{
+    border: solid 1px black;
+    width: 160px;
+    height: 40px;
+    border-radius:13px;
+    background-color: #FEF5E2;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.button2-text1{
+    font-size: 18px;
+    margin-top: 4px;
+    margin-left: -40px;
+}
+
+.icon-4{
+    font-size: 25px;
+    margin-left: 90px;
+    margin-top: -45px;
+}
+
+
+.extra{
+    padding-top: 130px;
+    padding-left: 110px;
+}
+
+
+
+/*  BIRINCHI IPONE CARD START */
+
+.card1{
+    margin-top: 30px;
+    border-radius: 13px;
+    margin-left: 100px;
+
+}
+
+.iphone-rasm1{
+    padding-top: 50px;
+}
+
+.card-title1{
+    padding-top: 70px;
+    padding-left: 20px;
+    color: #1F79FF;
+}
+
+.card-text1{
+    padding-left: 20px;
+    color: #1F79FF;
+}
+
+.card-button1{
+    position: relative;
+    top: -170px;
+    left: 20px;
+}
+
+.yulduz{
+    font-size: 22px;
+    padding-left: 180px;
+    padding-top: 10px;
+}
+
+.yulduz-nomeri{
+    padding-left: 210px;
+    margin-top: -28px;
+}
+
+/* BIRINCHI IPHONE CARD END */
+
+
+
+
+/* IKKINCHI IPHONE CARS START */
+
+.card2{
+    margin-left: 400px;
+    margin-top: -560px;
+    border-radius:13px;
+}
+
+.iphone-rasm2{
+    padding-top: 50px;
+}
+
+.card-title2{
+    padding-top: 70px;
+    padding-left: 20px;
+    
+}
+
+.card-text2{
+    padding-left: 20px;
+}
+
+/* IKKINCHI IPHONE CARD END */
+
+
+
+
+/* UCHINCHI IPHONE CARD START */
+
+.card3{
+    margin-left: 700px;
+    margin-top: -560px;
+    border-radius:13px;
+}
+
+/* UCHINCHI IPHONE CARD END */
+
+
+
+
+/* TO'RTINCHI IPHONE CARD START */
+
+.card4{
+    margin-left: 1000px;
+    margin-top: -560px;
+    border-radius:13px;
+}
+/* TO'RTINCHI IPHONE CARD END */
+
+
+/* BSHINCHI IPHONE CARD START */
+
+.card5{
+    margin-left: 100px;
+    margin-top: 20px;
+    border-radius:13px;
+}
+
+/* BSHINCHI IPHONE CARD END */
+
+
+
+
+/* OLTINCHI IPHONE CARD START */
+.card6{
+    margin-left: 400px;
+    margin-top: -560px;
+    border-radius:13px;
+}
+/* OLTINCHI IPHONE CARD END */
+
+
+
+/* YETTINCHI IPHONE CARD START */
+
+.card7{
+    margin-left: 700px;
+    margin-top: -560px;
+    border-radius:13px;
+}
+/* YETTINCHI IPHONE CARD END */
+
+
+
+
+/* SAKKIZINCHI IPHONE CARD START */
+
+.card8{
+    margin-left: 1000px;
+    margin-top: -560px;
+    border-radius:13px;
+}
+
+/* SAKKIZINCHI IPHONE CARD END */
+
+@media only screen and(max-width:1326px){
+    header {
+        width: 100%;
+        height: 70px;
+    
+    }
+
+   .cotainer{
+       width: 1326px;
+       
+
+   }
+
+    
+    .button1 {
+        background-color: white;
+        width: 120px;
+        height: 30px;
+        border: #000000 solid 1px;
+        border-radius: 10px;
+        position: relative;
+        left: 300px;
+        top: -40px;
+    }
+    
+    
+    
+    .logo2 {
+        margin-left: -70px;
+        margin-top: 3px;
+    }
+    
+    .text1 {
+        margin-left: 140px;
+        margin-top: -33px;
+        font-size: 22px;
+        line-height: 32px;
+        font-weight: 600;
+        font-style: normal;
+    }
+    
+    .logo1 {
+        margin-top: 18px;
+        margin-left: 100px;
+    }
+    
+    .button1-text1 {
+        margin-top: -20px;
+        font-size: 14px;
+        margin-left: 30px;
+    }
+    
+    .navbar-words {
+        width: 370px;
+        margin-left: 760px;
+        margin-top: -70px;
+    }
+    
+    .word-1 {
+        color: #000000;
+        opacity: 0.3;
+    }
+    
+    .icon-1{
+        font-size: 24px;
+        margin-left: 1180px;
+        margin-top: -40px;
+    }
+    
+    .icon-2{
+        font-size: 24px;
+        margin-left: 1230px;
+        margin-top: -37px;
+    }
+    
+    
+    .icon-3{
+        font-size: 24px;
+        margin-left: 1280px;
+        margin-top: -35px;
+    }
+    
+    .container-section1{
+        width: 100%;
+        margin-top: 80px;
+        height: 456px;
+        background-color: #FEF5E2;
+    }
+    
+    .logo3{
+        margin-left: 500px;
+    }
+    
+    
+    .section1-word1{
+        margin-top: -250px;
+        margin-left: 50px;
+        font-size: 43px;
+    }
+    
+    .section1-word2{
+        margin-top: -10px;
+        margin-left: 50px;
+        font-size: 43px;
+    }
+    
+    .section1-word3{
+        font-size: 20px;
+        margin-left: 50px;
+        margin-top: 20px;
+    }
+    
+    .section1-word4{
+        font-size: 20px;
+        margin-left: 50px;
+        margin-top: -10px;
+    }
+    
+    .section1-word4{
+        font-size: 20px;
+        margin-left: 50px;
+        margin-top: -10px;
+    }
+    
+    .section1-word5{
+        font-size: 20px;
+        margin-left: 50px;
+        margin-top: -10px;
+    }
+    
+    .button2{
+        border: solid 1px black;
+        width: 160px;
+        height: 40px;
+        border-radius:13px;
+        background-color: #FEF5E2;
+        margin-left: 50px;
+        margin-top: 30px;
+    }
+    
+    .button2-text1{
+        font-size: 18px;
+        margin-top: 4px;
+        margin-left: -40px;
+    }
+    
+    .icon-4{
+        font-size: 25px;
+        margin-left: 90px;
+        margin-top: -45px;
+    }
+    
+    
+    .extra{
+        padding-top: 130px;
+        padding-left: 110px;
+    }
+    
+    
+    
+    /*  BIRINCHI IPONE CARD START */
+    
+    .card1{
+        margin-top: 30px;
+        border-radius: 33px;
+        margin-left: -200px;
+        -webkit-border-radius: 33px;
+        -moz-border-radius: 33px;
+        -ms-border-radius: 33px;
+        -o-border-radius: 33px;
+}
+    
+    .iphone-rasm1{
+        padding-top: 50px;
+    }
+    
+    .card-title1{
+        padding-top: 70px;
+        padding-left: 20px;
+        color: #1F79FF;
+    }
+    
+    .card-text1{
+        padding-left: 20px;
+        color: #1F79FF;
+    }
+    
+    .card-button1{
+        position: relative;
+        top: -170px;
+        left: 20px;
+    }
+    
+    .yulduz{
+        font-size: 22px;
+        padding-left: 180px;
+        padding-top: 10px;
+    }
+    
+    .yulduz-nomeri{
+        padding-left: 210px;
+        margin-top: -28px;
+    }
+    
+    /* BIRINCHI IPHONE CARD END */
+    
+    
+    
+    
+    /* IKKINCHI IPHONE CARS START */
+    
+    .card2{
+        margin-left: 130px;
+        margin-top: -530px;
+        border-radius:13px;
+    }
+    
+    .iphone-rasm2{
+        padding-top: 50px;
+    }
+    
+    .card-title2{
+        padding-top: 70px;
+        padding-left: 20px;
+        
+    }
+    
+    .card-text2{
+        padding-left: 20px;
+    }
+    
+    /* IKKINCHI IPHONE CARD END */
+    
+    
+    
+    
+    /* UCHINCHI IPHONE CARD START */
+    
+    .card3{
+        margin-left: 400px;
+        margin-top: -560px;
+        border-radius:13px;
+    }
+    
+    /* UCHINCHI IPHONE CARD END */
+    
+    
+    
+    
+    /* TO'RTINCHI IPHONE CARD START */
+    
+    .card4{
+        margin-left: 700px;
+        margin-top: -560px;
+        border-radius:13px;
+    }
+    /* TO'RTINCHI IPHONE CARD END */
+    
+    
+    /* BSHINCHI IPHONE CARD START */
+    
+    .card5{
+        margin-left: -200px;
+        margin-top: 20px;
+        border-radius:13px;
+    }
+    
+    /* BSHINCHI IPHONE CARD END */
+    
+    
+    
+    
+    /* OLTINCHI IPHONE CARD START */
+    .card6{
+        margin-left: 100px;
+        margin-top: -560px;
+        border-radius:13px;
+        -webkit-border-radius:13px;
+        -moz-border-radius:13px;
+        -ms-border-radius:13px;
+        -o-border-radius:13px;
+}
+    /* OLTINCHI IPHONE CARD END */
+    
+    
+    
+    /* YETTINCHI IPHONE CARD START */
+    
+    .card7{
+        margin-left: 420px;
+        margin-top: -560px;
+        border-radius:13px;
+        -webkit-border-radius:13px;
+        -moz-border-radius:13px;
+        -ms-border-radius:13px;
+        -o-border-radius:13px;
+}
+    /* YETTINCHI IPHONE CARD END */
+    
+    
+    
+    
+    /* SAKKIZINCHI IPHONE CARD START */
+    
+    .card8{
+        margin-left: 700px;
+        margin-top: -560px;
+        border-radius:13px;
+    }
+    
+    /* SAKKIZINCHI IPHONE CARD END */
+}
+
+
+
+@media only screen and(max-width:992px){
+
+
+
+}
